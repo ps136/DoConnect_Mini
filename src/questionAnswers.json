@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "How to create a React component?"
+    },
+    {
+      "id": "2",
+      "question": "What is the difference between state and props?"
+    },
+    {
+      "id": "29ee",
+      "question": "What are middlewares in Express js?"
+    },
+    {
+      "id": "b382",
+      "question": "Why is Axios api used in node js?"
+    },
+    {
+      "id": "0bdc",
+      "question": "what is synonym of rabbit?"
+    },
+    {
+      "id": "b229",
+      "question": "what are ejs, pug and handlebars?"
+    },
+    {
+      "id": "b87c",
+      "question": "what is the use handlbars?"
+    }
+  ],
+  "answers": [
+    {
+      "id": "2",
+      "questionId": 1,
+      "answer": "You can use JSX syntax to define the component's UI and export/import it as needed.",
+      "approved": true
+    },
+    {
+      "id": "9639",
+      "questionId": "0bdc",
+      "answer": "The synonyms of rabbit are: bunny, hare, lapin, buck, capon, chinchilla, cottontail, and doe.",
+      "approved": true
+    },
+    {
+      "id": "8390",
+      "questionId": "b382",
+      "answer": "Axios is a popular JavaScript library used to make HTTP requests from node.js or XMLHttpRequests from the browser. It supports the Promise API that is native to JS ES6. It can be used intercept HTTP requests and responses and enables client-side protection against XSRF. It also has the ability to cancel requests.",
+      "approved": true
+    },
+    {
+      "id": "5b57",
+      "questionId": "29ee",
+      "answer": "Middleware is a request handler that allows you to intercept and manipulate requests and responses before they reach route handlers. They are the functions that are invoked by the Express. js routing layer.",
+      "approved": true
+    },
+    {
+      "id": "fcbd",
+      "questionId": "2",
+      "answer": "Here is a summary of the difference between props and state in React:\nProps\nProps are immutable. They are read-only and cannot be changed by the component.\nProps are passed to the component from its parent.\nProps are used to pass data from one component to another.\nProps are used to configure a component.\nState\nState is mutable. It can be changed by the component.\nState is managed by the component itself.\nState is used to store data that is specific to the component.\nState is used to represent the current state of the component.",
+      "approved": true
+    },
+    {
+      "id": "2e0d",
+      "questionId": "b229",
+      "answer": "Each templating engine has its place in web development. Pug offers a robust set of features for developers who prefer a stylized syntax. Handlebars suits those who need a logic-less yet powerful templating engine, while EJS is perfect for those who want minimal templating with plain JavaScript."
+    },
+    {
+      "id": "011b",
+      "questionId": "b87c",
+      "answer": "sjdfhbsafhbsdf\n",
+      "approved": true
+    }
+  ]
+}
